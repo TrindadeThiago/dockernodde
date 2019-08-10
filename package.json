@@ -1,0 +1,17 @@
+{
+  "name": "dockernode",
+  "version": "1.0.0",
+  "description": "Hello World usando docker e docker-compose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Thiago Trindade",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
